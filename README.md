@@ -1,0 +1,1 @@
+Files in the folder "study_1_data_generation" are used for generating factors, parameters, models, and response data that are used in the simulation study. While files in the folder "study_1_results_analyses" are used for extracting, aggregating, analyzing, and visualizing the results derived from Markov chains.
